@@ -1,0 +1,8 @@
+.vs
+.idea
+debug*
+release*
+build*
+*.exe
+*.dll
+*.pdb
